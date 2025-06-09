@@ -1,6 +1,5 @@
 # Project Title
 
-![Screenshot](link-to-image)
 
 ## 🚀 Features
 - Add / Update / Delete users
@@ -15,7 +14,7 @@
 
 ## ⚙️ Setup Instructions
 ```bash
-git clone https://github.com/ArjunRajput0206/YourRepo.git
+git clone https://github.com/ArjunRajput0206/CRUD-Operation-With-MernStack.git
 cd YourRepo
 npm install
 npm start
